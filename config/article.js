@@ -68,8 +68,8 @@ export default (environment = 'development') => ({ // eslint-disable-line
   */
   // General social
   // socialImage: '',
-  // socialHeadline: '',
-  // socialDescription: '',
+  socialHeadline: 'FT Italy election poll-tracker',
+  socialDescription: 'Here’s who is running and why it matters',
   // twitterCreator: '@author's_account', // shows up in summary_large_image cards
 
   // TWEET BUTTON CUSTOM TEXT
