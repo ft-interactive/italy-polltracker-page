@@ -11,7 +11,7 @@ export default (environment = 'development') => ({ // eslint-disable-line
   //       new Date('2016-05-17T17:11:22Z')
   publishedDate: new Date(),
 
-  headline: 'Italy election polls 2018: who is running and why it matters',
+  headline: 'Italy elections 2018: who is running and why it matters',
 
   // summary === standfirst (Summary is what the content API calls it)
   summary: 'The rules, contenders and possible outcomes of a vote pivotal to the fate of the EU',
@@ -28,8 +28,8 @@ export default (environment = 'development') => ({ // eslint-disable-line
 
   mainImage: {
     title: '',
-    description: '',
-    credit: '',
+    description: "Forza Italia's Silvio Berlusconi (l), the PD's Matteo Renzi (C) and Five Star's Luigi Di Maio",
+    credit: '© FT montage',
 
     // You can provide a UUID to an image and it was populate everything else
     uuid: '2fc33844-051f-11e8-9e12-af73e8db3c71',
@@ -48,7 +48,7 @@ export default (environment = 'development') => ({ // eslint-disable-line
   ],
 
   // Appears in the HTML <title>
-  title: '',
+  title: 'Italian election poll-tracker 2018: who is running and why it matters',
 
   // meta data
   description: '',
