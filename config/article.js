@@ -5,13 +5,13 @@ export default (environment = 'development') => ({ // eslint-disable-line
 
   // canonical URL of the published page
   //  get filled in by the ./configure script
-  url: 'https://ig.ft.com/italy-polltracker',
+  url: 'https://ig.ft.com/italy-poll-tracker',
 
   // To set an exact publish date do this:
   //       new Date('2016-05-17T17:11:22Z')
   publishedDate: new Date(),
 
-  headline: 'Italy election: who is running and why it matters',
+  headline: 'Italy election polls 2018: who is running and why it matters',
 
   // summary === standfirst (Summary is what the content API calls it)
   summary: 'The rules, contenders and possible outcomes of a vote pivotal to the fate of the EU',
