@@ -9,7 +9,7 @@ export default (environment = 'development') => ({ // eslint-disable-line
 
   // To set an exact publish date do this:
   //       new Date('2016-05-17T17:11:22Z')
-  publishedDate: new Date(),
+  publishedDate: new Date('2018-01-31T05:00:56.000Z'),
 
   headline: 'Italy elections 2018: who is running and why it matters',
 
@@ -43,7 +43,7 @@ export default (environment = 'development') => ({ // eslint-disable-line
   byline: [
     { name: 'Valentina Romei', url: 'https://www.ft.com/valentina-romei' },
     { name: 'James Politi', url: 'https://www.ft.com/stream/58f2fafd-6654-3463-b594-96a57841c665' },
-    { name: 'Cale Tilford' },
+    { name: 'Cale Tilford', url: 'https://www.ft.com/stream/6c088091-241d-3617-90af-3cdf542a7e67' },
     { name: 'Billy Ehrenberg-Shannon', url: 'https://www.ft.com/billy-ehrenberg-shannon' },
   ],
 
