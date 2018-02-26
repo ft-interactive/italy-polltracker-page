@@ -11,7 +11,7 @@ export default (environment = 'development') => ({ // eslint-disable-line
   //       new Date('2016-05-17T17:11:22Z')
   publishedDate: new Date('2018-01-31T05:00:56.000Z'),
 
-  headline: 'Italy elections 2018: who is running and why it matters',
+  headline: 'Italy elections 2018 polls: who is running and why it matters',
 
   // summary === standfirst (Summary is what the content API calls it)
   summary: 'The rules, contenders and possible outcomes of a vote pivotal to the fate of the EU',
